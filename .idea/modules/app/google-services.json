@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35835653741",
+    "firebase_url": "https://glogin-c4db4.firebaseio.com",
+    "project_id": "glogin-c4db4",
+    "storage_bucket": "glogin-c4db4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35835653741:android:6b9b8260807d42a152d964",
+        "android_client_info": {
+          "package_name": "com.example.g_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35835653741-87rgd2tpv32opq27hrkod925cgbgl8cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.g_login",
+            "certificate_hash": "2d0cb4296cbd81258990b76ef53b113b1a87728e"
+          }
+        },
+        {
+          "client_id": "35835653741-amnfg7vuofonct3mqnb0u579i0orls34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHID1jARUIqT9VJk0t2fy-sLd7osf33d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35835653741-amnfg7vuofonct3mqnb0u579i0orls34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
